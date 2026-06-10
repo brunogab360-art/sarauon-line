@@ -42,4 +42,5 @@ async function loadBook(){
  flip.loadFromHTML(document.querySelectorAll('.page'));
 }
 
-loadBook();
+loadBook():
+document.getElementById("loader").style.display = "none";
