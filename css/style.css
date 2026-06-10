@@ -124,12 +124,6 @@ aspect-ratio:1/1;
     align-items:center;
     justify-content:center;
 
-    background:#1f00e8;
-
-    color:black;
-
-    font-family:'Lekton', monospace;
-    font-size:24px;
-
     z-index:99999;
+};
 }}
